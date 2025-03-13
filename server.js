@@ -37,4 +37,6 @@ app.listen(3000);
          4-deletar usuários
          BT!2QiW74e5qnLh
          BT!2QiW74e5qnLh2
+
+         DATABASE_URL="mongodb+srv://vfallks:235689g2@users.okbbf.mongodb.net/users?retryWrites=true&w=majority&appName=users"
 */
